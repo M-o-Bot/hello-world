@@ -1,5 +1,4 @@
 # hello-world
-First Repository (Practice)
 
 Hello People!
 
